@@ -9,7 +9,12 @@
       "title": "HI EVERYONE",
       "content": "HI",
       "date": "1/13/2026",
-      "comments": []
+      "comments": [
+        {
+          "sender": "aadi",
+          "text": "hi"
+        }
+      ]
     }
   ]
 }
